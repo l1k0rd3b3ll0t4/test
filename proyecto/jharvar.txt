@@ -1,1 +1,7 @@
-sapo
+En la rama master
+Tu rama está actualizada con 'origin/master'.
+
+Cambios no rastreados para el commit:
+	modificado:     jharvar.txt
+
+no se agregaron cambios al commit
